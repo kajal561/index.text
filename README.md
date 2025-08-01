@@ -1,2 +1,3 @@
-# index.text
-this is my first git repository
+# Index.txt
+This is my first git repository.
+Author -> Kajal pal
